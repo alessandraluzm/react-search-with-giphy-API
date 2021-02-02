@@ -1,2 +1,2 @@
-# react-search-with-graphy-API
+# react-search-with-giphy-API
 A Giphy Search Application.
